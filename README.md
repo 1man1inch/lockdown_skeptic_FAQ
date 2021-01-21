@@ -17,4 +17,4 @@ Finally - personally Im interested in looking into the flaxman paper mentioned e
 Be careful about doxxing - dont use or contribute w/ ur personal github or an accnt that could be linked to you.
 
 # Contributor signup list:
-https://github.com/1man1inch
+[@1man1inch](https://github.com/1man1inch)
