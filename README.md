@@ -24,5 +24,4 @@ Be careful about doxxing - dont use or contribute w/ ur personal github or an ac
 # Potentially useful links:
 #### Example:
 - Fauci editorializing on vacc thresh: https://www.axios.com/fauci-goalposts-herd-immunity-c83c7500-d8f9-4960-a334-06cc03d9a220.html
-....
-- ok u guys add your own here:
+- ... etc
