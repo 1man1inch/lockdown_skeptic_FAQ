@@ -15,10 +15,16 @@ Anyways - w.r.t the format (and domain name) definitely open to change.  The sit
 
 Finally - personally Im interested in looking into the flaxman paper mentioned earlier and writing something.  But we would need some community collaboration to get this site to a point where we should feel comfortable sharing it.  If u are interested in contributing - add a link to ur github profile to the list below (like I did).  I think we should have about 10 contributors to this site total, so lets aim for a sign up list of 20.  Unless you really really just need to touch pen to paper I wouldnt start any work until we reach that limit. 
 
-Edit: Just saw a great post chock full of good info: https://www.reddit.com/r/LockdownSkepticism/comments/l1c9jg/what_are_the_economic_costs_of_the_lockdown_in/.  Wouldnt it be great if it some of its content was integrated into a static site intead of getting burid in  the feed?  Just a thought.
+Edit: Just saw a great post chock full of good info: https://www.reddit.com/r/LockdownSkepticism/comments/l1c9jg/what_are_the_economic_costs_of_the_lockdown_in/.  Wouldnt it be great if it some of its content was integrated into a static site intead of getting burid in  the feed?  Just a thought. 
 
 #### NOTE:
 Be careful about doxxing - dont use or contribute w/ ur personal github or an accnt that could be linked to you.
 
 # Contributor signup list:
 [@1man1inch](https://github.com/1man1inch)
+
+# Potentially useful links:
+#### Example:
+- Fauci editorializing on vacc thresh: https://www.axios.com/fauci-goalposts-herd-immunity-c83c7500-d8f9-4960-a334-06cc03d9a220.html
+....
+- ok u guys add your own here:
